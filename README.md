@@ -55,7 +55,7 @@ An AI-powered recruitment automation tool that helps recruiters screen resumes i
 
 ## 🧪 Local Development
 
-```bash
+\`\`\`bash
 # Clone repo
 git clone https://github.com/yourusername/ai-resume-screening.git
 cd ai-resume-screening
@@ -69,7 +69,7 @@ npm install
 
 # Run frontend & backend (in separate terminals)
 npm run dev
-```
+\`\`\`
 # Import and activate n8n workflow from /automation
 ## 💡 AI + Automation
 🔮 Frontend/Backend by V0: Built using prompt-based generation of components and routes
@@ -108,4 +108,3 @@ Built using V0 by Vercel
 Automated with n8n
 
 AI powered by GPT & custom resume parser APIs
-
