@@ -39,6 +39,8 @@ An AI-powered recruitment automation tool that helps recruiters screen resumes i
 2. **Form link** is shared with applicants.
 3. **Applicants submit** details and upload resumes.
 4. An **n8n webhook** receives submission → sends resume to AI for scoring.
+![Screenshot 2025-06-16 211613](https://github.com/user-attachments/assets/a6e9ef80-125e-41f8-a499-1943cb0cb18f)
+
 5. Recruiter receives **AI score, decision, and feedback** automatically.
 6. **Analytics dashboard** visualizes insights like avg score, selection rate, and more.
 
