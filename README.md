@@ -55,7 +55,8 @@ An AI-powered recruitment automation tool that helps recruiters screen resumes i
 
 ---
 ## Architecture
-![image](https://github.com/user-attachments/assets/098ee948-5520-428e-a1c4-8fa46ba36a9c)
+![image](https://github.com/user-attachments/assets/b72c0ff7-330d-41d2-8f01-2e26ef4ccdba)
+
 ## 🧪 Local Development
 
 ```bash
