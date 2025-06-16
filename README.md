@@ -52,10 +52,11 @@ An AI-powered recruitment automation tool that helps recruiters screen resumes i
  -  ai-scoring - Python API for resume parsing and scoring
 
 ---
-
+## Architecture
+![image](https://github.com/user-attachments/assets/098ee948-5520-428e-a1c4-8fa46ba36a9c)
 ## 🧪 Local Development
 
-\`\`\`bash
+```bash
 # Clone repo
 git clone https://github.com/yourusername/ai-resume-screening.git
 cd ai-resume-screening
@@ -69,7 +70,7 @@ npm install
 
 # Run frontend & backend (in separate terminals)
 npm run dev
-\`\`\`
+```
 # Import and activate n8n workflow from /automation
 ## 💡 AI + Automation
 🔮 Frontend/Backend by V0: Built using prompt-based generation of components and routes
